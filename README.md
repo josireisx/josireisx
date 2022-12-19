@@ -21,5 +21,5 @@
 
 </div></br>
 <div style="display: inline_block"><br/>
-Apaixonada pela tecnologia, e pela educação e mudar a vida das pessoas através da programação.
+Apaixonada pela tecnologia, pela educação e por mudar a vida das pessoas através da programação.
 

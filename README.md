@@ -1,7 +1,6 @@
 ### Olá, Eu sou a Josieli 😊
  
-- 🔭 Sistema de Informação 5/8 </br>
-- 🔭 Engenharia Computação 2/8
+- 🔭 Sistema de Informação 7/8 </br>
   <h5>Minha paixão é programar. É a tecnologia.
 ![Josireisx's GitHub stats](https://github-readme-stats.vercel.app/api?username=josireisx&show_icons=true&theme=dark)
 
